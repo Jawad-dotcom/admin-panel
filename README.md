@@ -238,7 +238,7 @@ We welcome contributions! Please follow these steps:
 
 ## 📝 **License**
 
-Copyright © 2024 [Jawad Ahmad]
+Copyright © 2026 [Jawad Ahmad](https://www.linkedin.com/in/jawad-ahmad-b8a072211)
 
 All rights reserved.
 
