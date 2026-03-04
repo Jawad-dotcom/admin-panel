@@ -255,7 +255,7 @@ All rights reserved.
 
 ## 📧 **Contact**
 
-**Jawad Ahmad** - [https://www.linkedin.com/in/jawad-ahmad-b8a072211](https://www.linkedin.com/in/jawad-ahmad-b8a072211) - jawadrana3262@gmail.com.com
+**Jawad Ahmad** - [Linkedin](https://www.linkedin.com/in/jawad-ahmad-b8a072211) - jawadrana3262@gmail.com.com
 
 **Project Link:** [https://github.com/Jawad-dotcom/admin-panel](https://github.com/Jawad-dotcom/admin-panel)
 
