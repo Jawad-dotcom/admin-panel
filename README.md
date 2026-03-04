@@ -238,7 +238,9 @@ We welcome contributions! Please follow these steps:
 
 ## 📝 **License**
 
-This project is **MIT licensed** - see the [LICENSE](LICENSE) file for details.
+Copyright © 2024 [Jawad Ahmad]
+
+All rights reserved.
 
 ---
 
