@@ -253,9 +253,9 @@ This project is **MIT licensed** - see the [LICENSE](LICENSE) file for details.
 
 ## 📧 **Contact**
 
-**Your Name** - [@yourtwitter](https://twitter.com/yourtwitter) - email@example.com
+**Jawad Ahmad** - [@yourtwitter](https://twitter.com/yourtwitter) - jawadrana3262@gmail.com.com
 
-**Project Link:** [https://github.com/yourusername/admin-panel](https://github.com/yourusername/admin-panel)
+**Project Link:** [https://github.com/Jawad-dotcom/admin-panel](https://github.com/Jawad-dotcom/admin-panel)
 
 ---
 
