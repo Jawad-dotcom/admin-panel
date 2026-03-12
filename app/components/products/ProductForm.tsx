@@ -182,21 +182,19 @@ export default function ProductForm({ mode, product }: Props) {
     formData.append("isActive", String(isActive));
     formData.append("isFeatured", String(isFeatured));
 
-    if (hasVariants) {
-      formData.append(
-        "variants",
-        JSON.stringify(
-          variants.map((v) => ({
-            label: v.label,
-            value: v.value,
-            stock: Number(v.stock),
-            price: v.price ? Number(v.price) : undefined,
-          })),
-        ),
-      );
-    } else {
-      formData.append("stock", stock);
-    }
+   // ✅ Ye line change karo:
+if (hasVariants) {
+  formData.append("variants", JSON.stringify(variants.map((v) => ({
+    label: v.label,
+    value: v.value,
+    stock: v.stock,
+    price: v.price ? Number(v.price) : undefined,
+  }))));
+  // stock mat bhejo
+} else {
+  formData.append("stock", stock);
+  formData.append("variants", JSON.stringify([])); // ← YE ADD KARO
+}
 
     if (specs.length > 0) {
       const specObj = specs.reduce<Record<string, string>>((acc, s) => {
